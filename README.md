@@ -1,4 +1,8 @@
 node-couchpotato
 ================
+Node interface for [CouchPotato](http://www.couchpota.to/).
 
-Node-CouchPotato
+**Not properly tested yet**
+
+Work In Progress.
+
