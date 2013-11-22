@@ -1,0 +1,20 @@
+{
+  "name": "node-couchpotato",
+  "description": "Node interface for CouchPotato",
+  "author": {
+    "name" : "Mads Lundt",
+    "email" : "madslundt@live.dk"
+  },
+  "keywords": [ "couchpotato", "movies" ],
+  "version": "0.0.1",
+  "main": "couchpotato.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:madslundt/node-couchpotato.git"
+  },
+  "homepage" : "https://github.com/madslundt/node-couchpotato",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/madslundt/node-couchpotato/issues"
+  }
+}
