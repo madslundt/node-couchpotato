@@ -7,7 +7,7 @@
   },
   "keywords": [ "couchpotato", "movies" ],
   "version": "0.0.1",
-  "main": "couchpotato.js",
+  "main": "lib/couchpotato.js",
   "repository": {
     "type": "git",
     "url": "git://github.com:madslundt/node-couchpotato.git"
