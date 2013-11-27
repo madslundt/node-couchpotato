@@ -9,15 +9,15 @@ Work In Progress.
 Usage example
 ================
 ```javascript
-var CouchPotato = require('couchpotato');
+var CouchPotato = require('node-couchpotato');
 
-var couchpotato = new CouchPotato({
-	url: 'http://192.168.0.17:5050/', 
-	apikey: 'a6ee144e54bf48b49dae6ceddff60eef', 
+var cp = new CouchPotato({
+	url: '<host:port>', 
+	apikey: '<APIKEY>', 
 	debug: true
 	});
 
-couchpotato.movie.progress().then(function(r) {
+cp.movie.progress().then(function(r) {
 	console.log(r);
 });
 ```
