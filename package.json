@@ -5,8 +5,8 @@
     "name" : "Mads Lundt",
     "email" : "madslundt@live.dk"
   },
-  "keywords": [ "couchpotato", "movies" ],
-  "version": "0.0.4",
+  "keywords": [ "couchpotato", "movies", "api" ],
+  "version": "0.1.0",
   "main": "lib/couchpotato.js",
   "repository": {
     "type": "git",
@@ -14,11 +14,7 @@
   },
   "homepage" : "https://github.com/madslundt/node-couchpotato",
   "dependencies": {
-    "q": "~0.8.12",
-    "querystring": "~0.2.0",
-    "util": "~0.10.0",
-    "url": "~0.7.9",
-    "request": "~2.9.203"
+    "request": "~2.53"
   },
   "license": "GPL v2",
   "bugs": {
